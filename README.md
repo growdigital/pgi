@@ -1,4 +1,5 @@
-# PGI inclu
+# PGI CAD plans
 
-* Forest garden
-* Veg patches
+* Original forest garden
+* Ornamental forest garden
+* Nuttery
